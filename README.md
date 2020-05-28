@@ -1,7 +1,5 @@
 # Project "Covid-19 in South Korea"
-<img src="Images/Report Covid-19-S.Korea.png"  width="400">
-<img src="Images/age_sex_state.png"  width="400">
-<img src="Images/Python_global.png"  width="400">
+<img src="Images/Report Covid-19-S.Korea.png"  width="400"> <img src="Images/Python.png"  width="400">
 
 
 This project collects information from South Korea to provide the most comprehensive coronavirus data.
